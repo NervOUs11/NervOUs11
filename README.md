@@ -3,6 +3,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NervOUs11&show_icons=true&theme=radical)<br>
 
 My name is Nitis visayataksin<br>
+
+Skill
+<ul>
+<li>Python</li>
+<li>HTML,CSS</li>
+<li>JAVA</li>
+</ul>
+Contract
 Email:reberrus@gmail.com<br>
 Facebook:<br>
 

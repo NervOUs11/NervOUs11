@@ -10,8 +10,11 @@ Skill
 <li>HTML,CSS</li>
 <li>JAVA</li>
 </ul>
+
 Contract
-Email:reberrus@gmail.com<br>
-Facebook:<br>
+<ul>
+<li>Email:reberrus@gmail.com</li>
+<li>Facebook:</li>
+</ul>
 
 <img width="400" height="400" src=https://user-images.githubusercontent.com/84081850/138900417-b090eb65-8958-4080-9c0e-879b0affd7aa.jpg><br>

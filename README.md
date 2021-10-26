@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NervOUs11&show_icons=true&theme=radical)<br>
-
 My name is Nitis visayataksin<br>
 
 Skill
@@ -10,6 +8,8 @@ Skill
 <li>HTML,CSS</li>
 <li>JAVA</li>
 </ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NervOUs11&show_icons=true&theme=radical)<br>
 
 Contract
 <ul>

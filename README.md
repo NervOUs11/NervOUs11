@@ -27,5 +27,5 @@ Contract
 <img width="400" height="400" src=https://user-images.githubusercontent.com/84081850/138900417-b090eb65-8958-4080-9c0e-879b0affd7aa.jpg><br>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Chess_AI&theme=radical)](https://github.com/NervOUs11/Chess_AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Chess_AI&theme=radical&show_owner=True)](https://github.com/NervOUs11/Chess_AI)
 

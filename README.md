@@ -15,7 +15,7 @@ Skill
 </ul>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NervOUs11&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NervOUs11&show_icons=true&theme=maroongold)<br>
 
 
 Contract
@@ -29,5 +29,5 @@ Contract
 
 <h2>About my little project</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Chess_AI&theme=radical&show_owner=True)](https://github.com/NervOUs11/Chess_AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Chess_AI&theme=maroongold&show_owner=True)](https://github.com/NervOUs11/Chess_AI)
 

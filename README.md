@@ -20,7 +20,6 @@ Skill
 
 Contract
 <ul>
-<li>Email: reberrus@gmail.com</li>
 <li><a href = "https://www.facebook.com/nitis.visayataksin" target=_blank>Facebook</a></li>
 </ul>
 

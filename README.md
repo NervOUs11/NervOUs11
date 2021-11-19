@@ -18,10 +18,7 @@ Skill
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NervOUs11&show_icons=true&theme=maroongold)<br>
 
 
-Contract
-<ul>
-<li><a href = "https://www.facebook.com/nitis.visayataksin" target=_blank>Facebook</a></li>
-</ul>
+
 
 <img width="400" height="400" src=https://user-images.githubusercontent.com/84081850/138900417-b090eb65-8958-4080-9c0e-879b0affd7aa.jpg><br>
 

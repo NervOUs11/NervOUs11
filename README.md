@@ -9,3 +9,4 @@ I study at KMUTT <br>
 
 <h2>About my project</h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Classified_Food&theme=maroongold)](https://github.com/NervOUs11/Classified_Food)

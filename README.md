@@ -10,3 +10,5 @@ I study at KMUTT <br>
 <h2>My projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Predict_CocaCola_Stock&theme=maroongold)](https://github.com/NervOUs11/Predict_CocaCola_Stock)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Cat_or_Dog&theme=maroongold)](https://github.com/NervOUs11/Cat_or_Dog)

@@ -13,4 +13,4 @@ I study at KMUTT <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Cat_or_Dog&theme=maroongold)](https://github.com/NervOUs11/Cat_or_Dog)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Classify_Fruit_or_Vegetable&theme=maroongold)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Classify_Fruit_or_Vegetable&theme=maroongold)](https://github.com/NervOUs11/Classify_Fruit_or_Vegetable)

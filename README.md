@@ -1,4 +1,4 @@
-### Greeting from Thailand🇹🇭🙏
+### Greeting 
 
 My name is Nitis Visayataksin<br>
 

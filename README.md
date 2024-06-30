@@ -14,3 +14,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Fruits_and_Vegetables&theme=codeSTACKr)](https://github.com/NervOUs11/Fruits_and_Vegetables) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=SolarSystem_Simulation&theme=codeSTACKr)](https://github.com/NervOUs11/SolarSystem_Simulation)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Predict_S-P500&theme=codeSTACKr)](https://github.com/NervOUs11/Predict_S-P500) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Investment-chatbot&theme=codeSTACKr)](https://github.com/NervOUs11/investment-chatbot) 

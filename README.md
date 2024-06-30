@@ -15,5 +15,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Predict_S-P500&theme=codeSTACKr)](https://github.com/NervOUs11/Predict_S-P500) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Investment-chatbot&theme=codeSTACKr)](https://github.com/NervOUs11/investment-chatbot) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Bld-qa-chatbot&theme=codeSTACKr)](https://github.com/Kittiwin-Kumlungmak/bld-qa-chatbot) 

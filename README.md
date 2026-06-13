@@ -16,6 +16,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=SolarSystem_Simulation&theme=codeSTACKr)](https://github.com/NervOUs11/SolarSystem_Simulation)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Predict_S-P500&theme=codeSTACKr)](https://github.com/NervOUs11/Predict_S-P500) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=investment_chatbot&theme=codeSTACKr)](https://github.com/NervOUs11/investment_chatbot) 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=Stock_analysis_website&theme=codeSTACKr)](https://github.com/NervOUs11/Stock_analysis_website) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NervOUs11&repo=dca-btc-tracker&theme=codeSTACKr)](https://github.com/NervOUs11/dca-btc-tracker) 
